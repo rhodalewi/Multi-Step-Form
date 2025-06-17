@@ -1,5 +1,5 @@
 # Multi-Step Form Application
-    This project is a fully responsive multi-step form built with **React (Vite)** and **Tailwind CSS**, following a clean, mobile-first design. It allows users to fill out personal details, choose a subscription plan, select add-ons, review their summary, and confirm their choices. It includes real-time validation, dynamic UI behavior, and a smooth, accessible user experience.
+    This project is a fully responsive multi-step form built with React (Vite) and Tailwind CSS, following a clean, mobile-first design. It allows users to fill out personal details, choose a subscription plan, select add-ons, review their summary, and confirm their choices. It includes real-time validation, dynamic UI behavior, and a smooth, accessible user experience.
 
 ## Features
 
@@ -28,8 +28,8 @@
 
 ### Links
 
-- Solution URL: (https://github.com/rhodalewi/Multi-Step-Form)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repository](https://github.com/rhodalewi/Multi-Step-Form)
+- Live Site URL:[Live Site](https://multi-step-form-alewi-rhoda-oyinkanaols-projects.vercel.app/)
 
 ## Author
 
